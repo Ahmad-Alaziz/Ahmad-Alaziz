@@ -1,1 +1,1 @@
-![image](https://github.com/Ahmad-Alaziz/Ahmad-Alaziz/blob/main/gif.gif)
+![image](https://github.com/Ahmad-Alaziz/Ahmad-Alaziz/blob/main/GitGif.gif)
