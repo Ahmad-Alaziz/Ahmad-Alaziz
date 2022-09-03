@@ -1,7 +1,7 @@
 ![image](https://github.com/Ahmad-Alaziz/Ahmad-Alaziz/blob/main/gif.gif)
 
 
-![Ahmad Alaziz's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Alaziz&show_icons=true&count_private=true)
+![Ahmad Alaziz's github stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Alaziz&show_icons=true&count_private=true&hide=prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alaziz&layout=compact)](https://github.com/Ahmad-Alaziz/github-readme-stats)
 
